@@ -1,0 +1,2 @@
+#!/binn/bash
+tail -1 iacta >> iacta
